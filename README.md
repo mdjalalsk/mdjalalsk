@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md. Jalal S K</h1>
 <h3 align="center">A passionate Full Stack Developer from Bangladesh</h3>
-<img align="right" alt="coding" width="400px" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.gifer.com%2F8JIk.gif&tbnid=L1_ZrkLT6ZlcuM&vet=12ahUKEwichdfTtfWBAxV55zgGHWyXCnkQMygtegUIARDpAQ..i&imgrefurl=https%3A%2F%2Fgifer.com%2Fen%2F8JIk&docid=KsPmUCGfX3izdM&w=500&h=239&q=animation%20coding%20gif&ved=2ahUKEwichdfTtfWBAxV55zgGHWyXCnkQMygtegUIARDpAQ">
+<img align="right" alt="coding" width="400px" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fe8%2Ff4%2F53%2Fe8f453469a3ec97ecd354df465d73913.gif&tbnid=35X6L1D39_KDvM&vet=12ahUKEwjVr42Ft_WBAxVN7DgGHQ_-AJwQMyg_egUIARCiAg..i&imgrefurl=https%3A%2F%2Fin.pinterest.com%2Fpin%2Fpinterest--59813501292017265%2F&docid=peXWGyUPT-4YHM&w=500&h=500&q=animation%20coding%20gif&ved=2ahUKEwjVr42Ft_WBAxVN7DgGHQ_-AJwQMyg_egUIARCiAg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdjalalsk&label=Profile%20views&color=0e75b6&style=flat" alt="mdjalalsk" /> </p>
 
@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **Vue.js, node.js ,express.js, mongoDB**
 
-- 👯 I’m looking to collaborate on [Pos]('/')
+- 👯 I’m looking to collaborate on [POS]('/')
 
-- 💬 Ask me about **PHP,Laravel10,mySOL**
+- 💬 Ask me about? **PHP,Laravel 10,mySOL,React**
 
 - 📫 How to reach me **mdjalalsk02@gmail.com**
 
