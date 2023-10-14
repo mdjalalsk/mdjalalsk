@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md. Jalal S K</h1>
 <h3 align="center">A passionate Full Stack Developer from Bangladesh</h3>
-<img align="right" alt="coding" width="400px" src="![Alt text](image.png)">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdjalalsk&label=Profile%20views&color=0e75b6&style=flat" alt="mdjalalsk" /> </p>
 
