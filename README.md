@@ -2,15 +2,13 @@
 <h3 align="center">A passionate Full Stack Developer from Bangladesh</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdjalalsk&label=Profile%20views&color=0e75b6&style=flat" alt="mdjalalsk" /> </p>
-
 - 🔭 I’m currently working on [Ecommerce]('/')
 
 - 🌱 I’m currently learning **Vue.js, node.js ,express.js, mongoDB**
 
 - 👯 I’m looking to collaborate on [POS]('/')
 
-- 💬 Ask me about? **PHP,Laravel 10,mySOL,React**
+- 💬 Ask me about? **PHP,Laravel 10,mySQL,React, Nextjs**
 
 - 📫 How to reach me **mdjalalsk02@gmail.com**
 
