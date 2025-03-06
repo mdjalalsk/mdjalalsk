@@ -61,15 +61,7 @@
   <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg" alt="wordpress" width="40" height="40"/>
   </a>
-  <a href="https://wordpress.org/plugins/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/wordpress-plugin.svg" alt="wp plugin" width="40" height="40"/>
-  </a>
-  <a href="https://developer.wordpress.org/themes/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/wordpress-theme.svg" alt="wp theme" width="40" height="40"/>
-  </a>
-  <a href="https://wordpress.org/gutenberg/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Gutenberg_%28software%29_logo.svg" alt="gutenberg" width="40" height="40"/>
-  </a>
+
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdjalalsk&show_icons=true&locale=en&layout=compact" alt="mdjalalsk" /></p>
